@@ -1,0 +1,4700 @@
+fileFormatVersion: 2
+guid: 2c920bccdcdb9b34c99cbe18ce68ab58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 756
+        width: 256
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca83097e7e6d02f4884f8986ab3f2b59
+      internalID: 813815737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 755
+        width: 48
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb410f2fb0a951340ab881e8bbc8c528
+      internalID: -1512817090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58035178f463f44b49c92991cabee8
+      internalID: 1521329357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac078aaa7388ae46881bb32436554ed
+      internalID: 867700111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a28526d5e3d84583c092862e220f5
+      internalID: -338148956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f937f5134fa90084e81fe32acd852e3d
+      internalID: 286259917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c5fd3e138c494ea98641587d478d2
+      internalID: -912581268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76da89dc60fd154fbe611937a09a4c8
+      internalID: -1574065509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02179f469a86e446b525d141b711a36
+      internalID: -1875303030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dbc2a8b75fd3842b0a2bf316e4c73a
+      internalID: 65515310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab4cd5d42f7c747b9b538c5bd1dc85
+      internalID: -1242436921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb189217d32499a478d4e36f27de1df1
+      internalID: -1213646449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c75da8aae0a7643b0b06ad0ccc810a
+      internalID: 88432799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 756
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb69bd71e55864199bb11270c9a03c
+      internalID: 736173727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 756
+        width: 15
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4788ef037d35b4fb3e9c13fd2c6442
+      internalID: 419080875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 707
+        width: 256
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134521e7ca668ea42ae280d8d205c023
+      internalID: -753631842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 726
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a1e33053d6dc941bad59fc63920b72
+      internalID: -761980137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 692
+        width: 55
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e56c8dfbe766548a3c558a65485aca
+      internalID: -427504280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 691
+        width: 127
+        height: 63
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbbf7ccb1391314bb42b4ea605226fa
+      internalID: -478417091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 692
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07dc2151b17e3a4baf61221b7758456
+      internalID: -852040878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 712
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f3e7aac90ddfc42aa379fcd93083ac
+      internalID: -1552594104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 692
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9ae43b207ed5743ac19873e996772e
+      internalID: -1242738115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 692
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e915db1da0cf6439619b295d35c6b2
+      internalID: -371724740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b67174e26449e4dbe3274c8a45d707
+      internalID: 1065324916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e0a1f9b1a6efe45be3484ba89c8737
+      internalID: 1611653233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9a50211f412f458d93f89d4909276
+      internalID: 2094275650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa80c06549fb7347942cb4ed94154f5
+      internalID: -742891314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 692
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e965b785339b647a04f6a14e1d782c
+      internalID: -1842261320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3278519992bb06148bb581a3d7aa7c60
+      internalID: -636037077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8566a8c41c482174da99b61fcbbdb1b7
+      internalID: -931612908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574c0a064a22a74cb057c3affd87a2a
+      internalID: 595940153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee30f024d774f4ea0cfd7c6c29da48
+      internalID: 42331385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e568fe34d24b4fae8b1e471306be5
+      internalID: 653668221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_33
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be42f0f0b828e343943144d95049fbc
+      internalID: 669197571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8638573645af4283a28248a1f48f8
+      internalID: 1951149716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93184903e53278447b4a6285ea8ad23e
+      internalID: -446941306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_36
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 692
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a317f3528f5cf47867d20022c3084c
+      internalID: -68259047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc08162033bd22148b8a15bfa4c699d4
+      internalID: 985185966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 628
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a7e2cd326f454a824f847fb3cf6b1
+      internalID: -453422617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 628
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b0331cc4a287749aff20c098e6f5b8
+      internalID: 1858820438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 550
+        width: 129
+        height: 142
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab269476c4cd3e74a962c720a9c150f9
+      internalID: -1896491242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 595
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49472fda1965c7743ad3ca92fc6db4b6
+      internalID: -1834789563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 595
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4ccf3cdc12fc04f80f28063b368538
+      internalID: 467255217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_43
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 595
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93cc40689076c34fa32ff6a41b3e726
+      internalID: -2120607909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 595
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424dd9fe3207ea2408ed5fa7d1062d7f
+      internalID: -1645607022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 563
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a1e575c0806364f92a8fa85e164491
+      internalID: -704032051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 515
+        width: 81
+        height: 79
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbcf9f7e76a7944bb3c2dbe09eacf18
+      internalID: -288228351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 563
+        width: 27
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364a6d36454b074aa83cd89cc86e4d5
+      internalID: -1692476934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 533
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997175a701d695149875cbd4469012e4
+      internalID: 457557532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 533
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d891f975f5a243b89c007501b439f
+      internalID: 532478768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 533
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a9f3dfcb71ba845ba1e0e1b8df5045
+      internalID: -1463095339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 533
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183268f0b0486a746b06886ea49e7381
+      internalID: 110621138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 533
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f3bf70c949264ab8c56535c33cf54
+      internalID: 566436431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 533
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f62d2642358d4d848a20daa377c52
+      internalID: -2019578603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_54
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 533
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de207a137dd184d97b1f1a32fbf060
+      internalID: -216163962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 533
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870f57acdc3ecf842b4e86ab1608c557
+      internalID: -1782808730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 549
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca891bebff8f20f478ccb5b75ff286eb
+      internalID: -776369643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_57
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 549
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a20022dfd8ca34dbe2e46821576de9
+      internalID: -127952364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_58
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 550
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731af2f318547eb41b94e76428d40e70
+      internalID: -1331610539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 515
+        width: 64
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ebd3c6d047fa40aa38e64bfcfeaed
+      internalID: -1434914636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_60
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672ba41713461004db8def61c94b6ca7
+      internalID: 1463434042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d0ab25d808f74493ad56278574ed7
+      internalID: -601384923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66681cd2c84a94d4f9f5e2ec8f0ff76b
+      internalID: -1544701159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156c6d2567e724b47b8b25e71332e19f
+      internalID: 915164361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020f490108d252469bf8a68387af88b
+      internalID: 1284689662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e4303221df9494f8ce0cacc488846d
+      internalID: 1270370696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2249f3b554682f34695868f1f9da13a3
+      internalID: -496850242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c84344f2bfe3499cedb41fd25e647
+      internalID: 285314375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e565a52245f24eb19766ff628b2ee
+      internalID: 1521598782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 517
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f66325566eea2a4889bf6e01ff18dba
+      internalID: -2053073098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_70
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 515
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559525ab45a69f4e98d8f86bf178ee5
+      internalID: -1536553406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_71
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 517
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1f5e9199020640be78632d73b135f
+      internalID: 675578089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_72
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 516
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4eef2d9894ef64ea1b9430aadabfa0
+      internalID: -1370706011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_73
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 516
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bbbc9cc01100b409dee0c7e1071df4
+      internalID: 581832425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_74
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 516
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438e66ec7c1c20841967f2b6d96e7718
+      internalID: -383480701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_75
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 521
+        width: 27
+        height: 20
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3576df30e70a419c885d5de15ea3e
+      internalID: 1294437815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 484
+        width: 256
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f71cbf20fb0b343b6ce6063028481e
+      internalID: 1040071437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97022d521283a7a4081e630f4317ab3e
+      internalID: -192926832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465cb90ef025bed4c9cd89e07bfb23d8
+      internalID: 1182232912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_79
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8bb358f0fb7e74388b5625845cf065
+      internalID: -726380827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_80
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2184627c4387d764b81ab3ca6b7efbb3
+      internalID: -475440033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537a9bad850f1d44adc460e925c0944
+      internalID: -1328478472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_82
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949119f86facbd48acc9ba03835b24d
+      internalID: -2053744900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_83
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c2b8224d24d5c4bbecc5c8d133e368
+      internalID: 84026711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_84
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 483
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b9f1541db5da4b8dc7506f852594f
+      internalID: 180390651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 256
+        height: 63
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01317309c4c56bf41aae4713a856a22a
+      internalID: -1527434013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_86
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 419
+        width: 59
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f0ba5638eec24f9b708bc43f16f90
+      internalID: 2055427236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 419
+        width: 59
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70dc796237adcd4fa5bbf0e0d41177a
+      internalID: 1343502271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 419
+        width: 59
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac2b5f03fef6b459fc789183e0c40e
+      internalID: -1792288967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 419
+        width: 59
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2e35f2bff1cb44a111c71128a3218
+      internalID: -1493276325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 354
+        width: 24
+        height: 64
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da54a8258d1f2d54eba682cebce42b31
+      internalID: -1929320116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 386
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6516df7888cf6a4f8df13b13cfc89ce
+      internalID: -676331318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 386
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ba225ca8c80d49b8f5ace6b30d1c4
+      internalID: -1788340353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 386
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976705f1bfbacf4d8817631b2ded7de
+      internalID: 1098453415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_94
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 386
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b71b2414585834aa27563610102222
+      internalID: -303711103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 386
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c99acffff2b8e4da91b76f082f25a1
+      internalID: 544878899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_96
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 386
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2fd61abbba6374fb134d91f8d2f354
+      internalID: 1860257150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_97
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 386
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de26d4683037241a5cbb207aec82bd
+      internalID: 1074333721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_98
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 403
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ccad234a0ceec4b93dc3fe168342a5
+      internalID: 1414958005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_99
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 403
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50323d5091225e4e94a3334118ac4d0
+      internalID: 1651701300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 402
+        width: 96
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c965cb576f9a84281b43de9bcbc3dc
+      internalID: 862954217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_101
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 405
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b033c9f2f27b14e9f82c6584f4c34a
+      internalID: -821751601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_102
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 405
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aca09681b62ad45b5a9c49588eebe8
+      internalID: 2050020805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_103
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 405
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd83fa05d2633348a00d94648146fd0
+      internalID: 945694609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_104
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 405
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5d85432108f644af993116b02e120
+      internalID: -1332678190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_105
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 408
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c923655907296f44a8236a2fdbf3002
+      internalID: -456963113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_106
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 405
+        width: 28
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94d307d40060943ae0910c7abd4aa9
+      internalID: -718429399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_107
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 405
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cfa64a039cc8f4dbdbcd01d11e4309
+      internalID: 1426781702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_108
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 405
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d07073fa4f0ae3498d76dc336571d57
+      internalID: 1841404569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_109
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 388
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da6619bebaa990419c59c0da7e47e44
+      internalID: -291134101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_110
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 388
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6dd004d9565b848b217e9edce1a4ae
+      internalID: 2099658404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_111
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 388
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be1360be4841341940583b8e5d6740
+      internalID: 2075125146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 388
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930d9242b8925545a942a2e8a9fdb87
+      internalID: 377042601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_113
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 388
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc48bd727c6a544cb0870995ab18ccf
+      internalID: 7408561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_114
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 388
+        width: 22
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd01f1c44c464a40b1f4a1ba216e1f0
+      internalID: -762674780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_115
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 392
+        width: 15
+        height: 9
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69878d682832a3f41bf85c813efb768a
+      internalID: -227012518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_116
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 392
+        width: 30
+        height: 9
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d0ecf4d8d73374aada6a95c1674069
+      internalID: 1738114910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_117
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 388
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba99c46a6051aa4382adf28b3d61b9b
+      internalID: -1840573615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_118
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 376
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad5f8c473d050c4a8a7aaa2ca57d677
+      internalID: -537483800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_119
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 354
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a3be2f162a114092986c7b4bd2783
+      internalID: -1995871064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 354
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c665f44e6663f041bba2451d1d9f725
+      internalID: -1249510665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 354
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b3fa38a8aa2994bb291d8bef1800ea
+      internalID: 1180895369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_122
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 354
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d15acab83e704e9312797fd181c71
+      internalID: -517996562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_123
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 354
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727150f8ed8182f44a7234e8aa2c2637
+      internalID: 1255276203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_124
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 354
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f89df9feeb92344bc88691a24d0d4e
+      internalID: 1224751340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 354
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8323804b358d4ebd04c59efcc9445
+      internalID: -1833917465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_126
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 370
+        width: 144
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88378d667de5aa04589da87d872616d1
+      internalID: 3466950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86289751d3fb7f541b9db0affae6c491
+      internalID: -1442547857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_128
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0ca0ba442ba94186fb38a67d85825
+      internalID: 1716688651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc24a4e59504241b78013181f106df
+      internalID: 1679550605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_130
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301a2420544d3a04fbcb937f68b3ba8a
+      internalID: -1872354553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_131
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70851f7ee9f6cd444b3c5a219be72304
+      internalID: 1132535048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_132
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10abf80d3c9a04d4daba0131792c1797
+      internalID: 358185096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_133
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b688d33686eb9b948b7c6f0b34456abe
+      internalID: -1794238652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_134
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 323
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd566798fefbf4181c382087bcf9c3
+      internalID: -335447052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_135
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 350
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610fc3630b620ad459da110272aa7abb
+      internalID: -1254639168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_136
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 350
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc0f5728f851e943990e7cd22808541
+      internalID: 1840975654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_137
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 350
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b0ea5025c846c4db29871146ffcaf1
+      internalID: 252333572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_138
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 350
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece8049a13ccdc449c928aea441dd3f
+      internalID: -1438667228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_139
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 350
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1a9317e4603740b5ce9c54d63b014
+      internalID: 620891461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_140
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 350
+        width: 28
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd49df4b43c743546aea333fd9d8532b
+      internalID: 1092939931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_141
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 326
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad7c60df1ee68a4587345e06942ea0a
+      internalID: 427092226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_142
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 326
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4c680f746b48b49ba1ae0f08714c83
+      internalID: -1652154702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_143
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 326
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9179d58d1f55a7e45ad267a2d6574fca
+      internalID: -1456774176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_144
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 326
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4ace039b4cfbe4ca5d9cbfafd56b7d
+      internalID: 778566952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_145
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 326
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268705bbf2b98054d9bac835f8485ee7
+      internalID: 2105719251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_146
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 326
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2819a51706f2741a510150a126c38c
+      internalID: -125609219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a07fca3f7176141984f533bd6eeef1
+      internalID: -1890474263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_148
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 259
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c483093db11c45a9de4b1b0685eea
+      internalID: -1277704760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_149
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 259
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cf6a4d353bcdc418c75a4e28af3f83
+      internalID: -1552491626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_150
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 259
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb931c5cdc0ceb47b52db79b72d633f
+      internalID: 829351889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_151
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b04f274e4d5a14aacf292f25ed58f7
+      internalID: 693486609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_152
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ea72622e0f6ae418e5f183a0b85a00
+      internalID: -1632391967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_153
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c21ae30b4f90474e9361bf89c7c3147
+      internalID: 149019264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_154
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67cb8a1f34bc1544a4e90b4172827bb
+      internalID: -835559133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_155
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fea7e8c9373e04896b507108fdb87e
+      internalID: -1336336595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_156
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1320d875389d409ff2d4268834d2d
+      internalID: -575254999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_157
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6757c1f666b4ed4ab75fba89d2619c7
+      internalID: 116863194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_158
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13a98f415b43946a55c06bfbf0bfb1
+      internalID: 690179129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_159
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbe01f6277bac744bdb528662344bd2
+      internalID: -2001695791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_160
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a0a5776d37b04a9c59c407217a663
+      internalID: -48538940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_161
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fd7d2a89d472940a89f387f7a7903a
+      internalID: 1227697144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_162
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269060adc0abf3b448d2b86a820eaec0
+      internalID: -958119526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_163
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3941fca589fe4b4582845c2133bae1a
+      internalID: -715478165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_164
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05709f299a87a0c4187e021a90cd3a7c
+      internalID: 208835869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_165
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaa64995d6bfbd4d8df8d0d42d3612f
+      internalID: 1812239035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_166
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 308
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9bc8f4d8dbdbd4ba32893b75eb49b6
+      internalID: 650155310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_167
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 274
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196f4ed12d8f334ab4e37da2bb0efd1
+      internalID: 1329155556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_168
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 274
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aa2d96a55a14c43a8f6b66394dc005
+      internalID: -1009456116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_169
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 274
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3216bd747d76eda43b791f2e48b4f17f
+      internalID: 270507907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_170
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 274
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bcce623cb8d2845937cc9410a0b1fd
+      internalID: -1036802462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_171
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 245
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6df81375d316f4b9b3bb33639dc4b3
+      internalID: 1844417222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_172
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 67
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec8c0c90f1c324a9d9d4d40e570598
+      internalID: 646281367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_173
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 129
+        width: 12
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467d1718416b894682081ba7ff6402f
+      internalID: 891639256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_174
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 129
+        width: 13
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc7dfb9fc66aa44a391fa4058d5342
+      internalID: 1451148184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_175
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 212
+        width: 33
+        height: 41
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6f71a41014c404d8001f67c9ee988b
+      internalID: 1855368679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_176
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 250
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943c5f6a2cc3cfc4091488894bed78e9
+      internalID: -864172821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_177
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 250
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d725c8f8ec724429661ed99a26be46
+      internalID: -1035619576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_178
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 13
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470ac53d8c0d3d4286d2069770ecdcb
+      internalID: -346603782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_179
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 229
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b804622caabf5499d11228008fab91
+      internalID: -1304604841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_180
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 201
+        width: 10
+        height: 42
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4114240308e145abdce3dac8a75af
+      internalID: 1597805600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_181
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 216
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e3c429a657a64ba01c8b5c61327b1
+      internalID: 1052867125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_182
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 215
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f00cac40383d4f8ad7a541449d316
+      internalID: -632766593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 213
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84211e907f8c83a47acac3ee15f486d7
+      internalID: -1128732363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_184
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421709fb1b883840bb79ed4133c950a
+      internalID: 1225388874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_185
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 173
+        width: 10
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea64273f9b724b9439bd527506e629d6
+      internalID: -865764976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_186
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 181
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8354052cece19094a82b49724c719cd1
+      internalID: 168694080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_187
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 165
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659b2b2fcc397d4e9c174745f1c4075
+      internalID: 516044231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_188
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 146
+        width: 13
+        height: 27
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293239847e96822408e72cc787ea3efd
+      internalID: -1968636435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_189
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4855db6026f7246b81cba50dee0ebf
+      internalID: 343682683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_190
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d388cb5a106ef428ac56945b626ec1
+      internalID: 1130083095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_191
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 117
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e250d272e750ad45abd4c09aba1b38a
+      internalID: -1773046740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_192
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 101
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4677c7d793c75d44ca2a7c44938c2478
+      internalID: -1180645992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_193
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931e1b884533114095e22df68983e72
+      internalID: 1838473128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_194
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 69
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe6fac516045841968aafe5904057f
+      internalID: 427842490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_195
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 53
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b682e7f11ac53043bc262752d583771
+      internalID: 78325166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_196
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 37
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b0aad1d5f6c324292d9309fc8f7843
+      internalID: 93311166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_197
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e1b82cc9da6e41a0f6d8ef962ceef
+      internalID: -235206236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and
+        Items_198
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 248
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505a5a72e8c3c8409d45fca8f42b7c3
+      internalID: -1944135262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_0: 813815737
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_1: -1512817090
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_10: -1242436921
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_100: 862954217
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_101: -821751601
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_102: 2050020805
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_103: 945694609
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_104: -1332678190
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_105: -456963113
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_106: -718429399
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_107: 1426781702
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_108: 1841404569
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_109: -291134101
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_11: -1213646449
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_110: 2099658404
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_111: 2075125146
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_112: 377042601
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_113: 7408561
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_114: -762674780
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_115: -227012518
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_116: 1738114910
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_117: -1840573615
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_118: -537483800
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_119: -1995871064
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_12: 88432799
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_120: -1249510665
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_121: 1180895369
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_122: -517996562
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_123: 1255276203
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_124: 1224751340
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_125: -1833917465
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_126: 3466950
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_127: -1442547857
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_128: 1716688651
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_129: 1679550605
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_13: 736173727
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_130: -1872354553
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_131: 1132535048
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_132: 358185096
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_133: -1794238652
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_134: -335447052
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_135: -1254639168
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_136: 1840975654
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_137: 252333572
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_138: -1438667228
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_139: 620891461
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_14: 419080875
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_140: 1092939931
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_141: 427092226
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_142: -1652154702
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_143: -1456774176
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_144: 778566952
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_145: 2105719251
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_146: -125609219
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_147: -1890474263
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_148: -1277704760
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_149: -1552491626
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_15: -753631842
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_150: 829351889
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_151: 693486609
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_152: -1632391967
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_153: 149019264
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_154: -835559133
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_155: -1336336595
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_156: -575254999
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_157: 116863194
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_158: 690179129
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_159: -2001695791
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_16: -761980137
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_160: -48538940
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_161: 1227697144
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_162: -958119526
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_163: -715478165
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_164: 208835869
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_165: 1812239035
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_166: 650155310
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_167: 1329155556
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_168: -1009456116
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_169: 270507907
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_17: -427504280
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_170: -1036802462
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_171: 1844417222
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_172: 646281367
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_173: 891639256
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_174: 1451148184
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_175: 1855368679
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_176: -864172821
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_177: -1035619576
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_178: -346603782
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_179: -1304604841
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_18: -478417091
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_180: 1597805600
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_181: 1052867125
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_182: -632766593
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_183: -1128732363
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_184: 1225388874
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_185: -865764976
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_186: 168694080
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_187: 516044231
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_188: -1968636435
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_189: 343682683
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_19: -852040878
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_190: 1130083095
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_191: -1773046740
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_192: -1180645992
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_193: 1838473128
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_194: 427842490
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_195: 78325166
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_196: 93311166
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_197: -235206236
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_198: -1944135262
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_2: 1521329357
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_20: -1552594104
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_21: -1242738115
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_22: -371724740
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_23: 1065324916
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_24: 1611653233
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_25: 2094275650
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_26: -742891314
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_27: -1842261320
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_28: -636037077
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_29: -931612908
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_3: 867700111
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_30: 595940153
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_31: 42331385
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_32: 653668221
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_33: 669197571
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_34: 1951149716
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_35: -446941306
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_36: -68259047
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_37: 985185966
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_38: -453422617
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_39: 1858820438
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_4: -338148956
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_40: -1896491242
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_41: -1834789563
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_42: 467255217
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_43: -2120607909
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_44: -1645607022
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_45: -704032051
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_46: -288228351
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_47: -1692476934
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_48: 457557532
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_49: 532478768
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_5: 286259917
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_50: -1463095339
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_51: 110621138
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_52: 566436431
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_53: -2019578603
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_54: -216163962
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_55: -1782808730
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_56: -776369643
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_57: -127952364
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_58: -1331610539
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_59: -1434914636
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_6: -912581268
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_60: 1463434042
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_61: -601384923
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_62: -1544701159
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_63: 915164361
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_64: 1284689662
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_65: 1270370696
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_66: -496850242
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_67: 285314375
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_68: 1521598782
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_69: -2053073098
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_7: -1574065509
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_70: -1536553406
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_71: 675578089
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_72: -1370706011
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_73: 581832425
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_74: -383480701
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_75: 1294437815
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_76: 1040071437
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_77: -192926832
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_78: 1182232912
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_79: -726380827
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_8: -1875303030
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_80: -475440033
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_81: -1328478472
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_82: -2053744900
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_83: 84026711
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_84: 180390651
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_85: -1527434013
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_86: 2055427236
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_87: 1343502271
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_88: -1792288967
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_89: -1493276325
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_9: 65515310
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_90: -1929320116
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_91: -676331318
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_92: -1788340353
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_93: 1098453415
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_94: -303711103
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_95: 544878899
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_96: 1860257150
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_97: 1074333721
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_98: 1414958005
+      PC Computer - Touhou Seirensen Undefined Fantastic Object - Bullets and Items_99: 1651701300
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

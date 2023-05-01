@@ -1,0 +1,4516 @@
+fileFormatVersion: 2
+guid: 0f753514152508340bc4ee791482ccbf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0973ed9498c543b9e3a1f7df84d6f
+      internalID: -369817504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b95f81d1e5c64e9aae691d4d56ef0
+      internalID: 2147212931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77364e1b66f9443b2d9391b4f1ebc0
+      internalID: 796719228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e33806e743bc44895d5251656f7a5
+      internalID: -1094273956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020a6d0d3233864d923e4b6084a3c68
+      internalID: 648819050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d158a1792a1442af49c016d874e74
+      internalID: -1489550571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250e6c1c27694e40a8984773f00a98b
+      internalID: 1922006854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c094217d0c5c24cbc751883997caa7
+      internalID: 801626609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8e316331cb514db9d2aba8eb077a0
+      internalID: 244784046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5af412625fd9945b5c2b37f478830c
+      internalID: -1364625226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50c713b001f7148ad0c4d108a032b3
+      internalID: 688289602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7361244065c11649b011e8df3f7f002
+      internalID: 1508365364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7092a3d8de161347a8a8ad6d07c4275
+      internalID: -647366097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519839d3fc453fc4ab5b904699f63fc8
+      internalID: -2116304683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946adaf7771c19f46ba0d75e6bd96da6
+      internalID: 1132496458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18fc15cbc02b3f43ae7c302ca4295eb
+      internalID: -45291433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926149519587bb448aec95bf8ca81c9
+      internalID: -113077007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f60216132073924593a0138c2890146
+      internalID: 864444123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a923849a43c0848982f29c0705e92e
+      internalID: 557971794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ffcb94e0c504c4788e6d8266686500
+      internalID: 1195603330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a107629b5381429d7bc07b3530d94
+      internalID: 1181697516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0644add07401622438361fb4167e85bf
+      internalID: -1947772807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399594214e6ebfb4e91db58a7203ec6c
+      internalID: -463424654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_23
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4c6891c3ffc74a85ecf5717762803
+      internalID: -1657447858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_24
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a52e1158a6af645a911607a769190c
+      internalID: 952537090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_25
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 365
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2dadf04fb76948a7ab2b3dc80156e
+      internalID: 2021458266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddccfc9fcf85f2740ab028ad0fd02c93
+      internalID: 130779741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ecfee1b6caac449a03642a511f3cd
+      internalID: 711169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82865010744b53744bf28b04312daa30
+      internalID: 117102168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107073d9d27ebfb4db46fd9f6313f28c
+      internalID: 1703435087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d1e6946fdbc414c89131c7522439e5
+      internalID: 2029295673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b29333e40bf47428e553ffd99fa007
+      internalID: -1041701350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3bf3558dcb194a8343b568ae663c3
+      internalID: -681018076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65ac6d91d71704990b061b0bcb90a8
+      internalID: 1177765728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb059fb695a695b448db7907c32016bc
+      internalID: -1394089506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd4ab7f96dbc874aadb761ee9596806
+      internalID: 1149284710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f623a69c857ce6e43846f226fa0bb1c6
+      internalID: 2117910691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97be1a4053638046a5086d10471f104
+      internalID: 1879248738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd76a826c10994b9cad4fc093cc52d
+      internalID: -23094277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_39
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3972c1a8114084a81627de9192a2c6
+      internalID: 2049675819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_40
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f4eb1c655f1643944574f3364bfea
+      internalID: -1742186007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_41
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969038693eda99643951057d0551534f
+      internalID: 641679513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_42
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30e02693f7ca8498a93eaa9a7e4a90
+      internalID: -1546406551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfad8eb0b828574db8f19286e6d2878
+      internalID: 323523299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8bb010db085a441ab15e397aef9175
+      internalID: 1974366548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_45
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c7941611e96d4c909439bb9642a83
+      internalID: 495456293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_46
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d31afaf26c2744e8914faa0cf9a87e
+      internalID: -2128495807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3650f90a4e71408d41316302001ae
+      internalID: 1738970554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_48
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7904b4159f16440a46ea5942d36844
+      internalID: 1024197549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_49
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ba85ba4a51fe44b90906dd16ad7dd8
+      internalID: -1838099222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_50
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b7fd5f4590144690a8b15c3a10435
+      internalID: -2071704414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_51
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 317
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9099ba2dceea894d832d4d67ca1cd13
+      internalID: -1124206638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc0d88892cef0848920bba6fca67bfc
+      internalID: 971774403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd836ae5afb5299408310fa61ea12e17
+      internalID: -925731750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd54d53d5e3bd4dae0c2233c255d99
+      internalID: 80710801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f832c58715e507045827df82b2f1407c
+      internalID: 625196936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccc5ef6e01c9a40a0b54a549ddbe55
+      internalID: -1625077691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8b5683b6f69248a43d129bdabd284
+      internalID: 1731726076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_58
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6934f7146b33b394a905457c9bac38b0
+      internalID: -1843347757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b55e70e2720943a67da045eb6912a
+      internalID: -90917401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6341c6a30b281d842990449f31374921
+      internalID: -1430246969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_61
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1750122bac8cb4e808001e9c4619d3
+      internalID: -284109103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_62
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbb1ca57863b04286c2d016d7ed3b6
+      internalID: -342636887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_63
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3065a07f33c1b984380d48d20242091c
+      internalID: -1006350853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_64
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b365b2b01860d4496c3e83c802e60a
+      internalID: 1450276100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_65
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9239f6405675ba543b406049019cdea1
+      internalID: 1322853687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_66
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca0c8267d70c5c4d856683ed5130f0a
+      internalID: 78551488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_67
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e442fffec3608b0448212e750be8a531
+      internalID: -1299708226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_68
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d0af1817fe2ac42853ac40e3cfea2b
+      internalID: 99822308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_69
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8d2e768bf37a448b55d07bf069b82
+      internalID: -1117053262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_70
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9f148a0a358ff43b3e2f2c161ac7e9
+      internalID: 1709349734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_71
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa63cf139f892f4980976a494c8412f
+      internalID: 1022670037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_72
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d3cf8e8bf6d9f4f881d63bbfee5586
+      internalID: -171732821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_73
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff91a77ec1662408cb4b977582083b
+      internalID: -1257069678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_74
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c7c0727ddbfb41b7ce06d1d6bf767
+      internalID: -336869090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_75
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e331676a01f5ba24f9eb96eb011b756a
+      internalID: 1948763453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_76
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ae6b71cb3456499177ecfda857ace
+      internalID: -1573071269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_77
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 269
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42927ace0161795468a2ad64139a2dc0
+      internalID: -555337989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0964a71ef68e43a411fb0076d34ff
+      internalID: 219356655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8c01dda134cb4ebef3a061d91c13b
+      internalID: -714634000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c4d1ba89ac5804ca8a7065a7d88951
+      internalID: 162419701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f78882e6d965438745406e4372da5
+      internalID: -1889825564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b679091c4b5c42afd4d86fbf7c297
+      internalID: -1139264203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_83
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5685d3463c5fad43a36d70092105a37
+      internalID: 417882163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_84
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7e28a2c581f1e438e6c712883d9efb
+      internalID: -1011942153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ea22a09e99ef34989468dec1dbead4
+      internalID: 615022469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_86
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19648c1e486ee3f4fb8086e2782e0d38
+      internalID: -1359957771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_87
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7dd9d0e5658e640a45f88ccb76f630
+      internalID: -1619443676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_88
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777ae6fc36b3eea4abf2f6865261a5b9
+      internalID: 929007343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_89
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903b169c82f8eec49aff35f39e122482
+      internalID: -1254560967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_90
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e693ce884ea7947b648651b5cffa8d
+      internalID: -543226344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_91
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a38f2f4b20bd07418406ecbb3d6cda7
+      internalID: -1247430633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_92
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0df38ae0ff91747be265b8223a7223
+      internalID: 1527840301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_93
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dfc2f3ef8d75048a8b1fb5afedcef1
+      internalID: -1435867948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_94
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1d55be02dc1c40b80a8111eac2f0e
+      internalID: 1973819918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_95
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad80a190d3dfb4e9ab83f3c9b703f0
+      internalID: -151644604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_96
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc07f6d35ab627469379343e4f4ca8f
+      internalID: -1918671696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_97
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717b12bff5709224093a1da108c91c70
+      internalID: 943155940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_98
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7154a63bc48554ea010849b800a47b
+      internalID: 1616350566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_99
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d5514c8c58c2b499daf4ee344eeba3
+      internalID: -138516096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_100
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efe4381943483a45991eaf3905edbe9
+      internalID: 2113104181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_101
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd49919fb5604349b75dbf78718db62
+      internalID: -2052706286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_102
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eb286f229c6294cb467af4e1bb30d3
+      internalID: -2012963669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_103
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 221
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff91c92f9b6cd445b6dbabd6d88d22b
+      internalID: -963475904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf062e343c7ccb4fa17fc7baff39eed
+      internalID: 488428668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1533bf6e207d2c242a0b5589de571eac
+      internalID: 15147280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a9be33b955de44a852c1eb249e8a0e
+      internalID: 1098129573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60cf0f07a88be34daae3aff81088b21
+      internalID: 1320476424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbdc0ef516018340800b504708be2fc
+      internalID: -1596764873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_109
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23818390b62d9443806d9d4260b2d57
+      internalID: -678727369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_110
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c19e81dd3ef6348a91e2f6c5f45b40
+      internalID: 1113338512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_111
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e96402de3a1b48998bce473539d85
+      internalID: 1809295435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_112
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb88c56d6b092e4fa5edc0c0e5d5cce
+      internalID: -434919194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c056e990cdb77e64f89cd5043d3cfc78
+      internalID: 1795578064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_114
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c0f9a1067f5a438971998310f0376
+      internalID: 552075360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_115
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dba194f3880174ab15c8c54632df63
+      internalID: -1543926231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_116
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67596710221888d4fa5a41bddfb36e35
+      internalID: -897490214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_117
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b6be6d8ff5c74ebbf3f89b18481db
+      internalID: -712041620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_118
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3c1e2abc2d5e34593ff165c3266880
+      internalID: 2107849507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_119
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be6e65cbc44da4f857d52487647979
+      internalID: 1222231625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_120
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b6319c93c5e74c9a0e454c180345e
+      internalID: -1150845151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_121
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd730e3a37e777f42818b877fb583971
+      internalID: -1236518494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_122
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb01fb03a757b4db39c7d36357e441
+      internalID: 1646409472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_123
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bad524678f3af469a6cc7c65475c22
+      internalID: 777913618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_124
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804359d3127b7d2408a5ce2ac3fe54a6
+      internalID: 876730765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_125
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52217f6c9e096641b96d3652325efba
+      internalID: -337514580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_126
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c59e54fb5e44f747b0953054b17ec6b
+      internalID: -374745132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_127
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0f815606221124584a9e6d7b93bc28
+      internalID: 886046908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_128
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 173
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a50b33e382f340a76d7bbab7ee06b
+      internalID: -824203884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_129
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c969e83d2ead14fa0bbf2c2f365a4b
+      internalID: 2139696129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_130
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cfad1462cf82d49bb36eecdfa89850
+      internalID: -1961591713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_131
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8496f32f224cae14ba645de0b8f7a6a4
+      internalID: -594695778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_132
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace60c8b8c4d79c4ea1180b52985cc0c
+      internalID: 1160316462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_133
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161195b04463aa143b3da6d674d19b56
+      internalID: 2059185321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_134
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b745879d94236448ce8b15772d6d70
+      internalID: 1536754792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_135
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc4aac668b9646448eba6c196a27125
+      internalID: -1960302779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_136
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe03eba8304274f8bbf83216b7dfb5
+      internalID: -503760849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_137
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3584ae1bc63dbb4f9b6fcd6c814dd94
+      internalID: 935212862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_138
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dcfc3c46b6af94493076c63b0fc343
+      internalID: -1820056642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_139
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd8d5081106f841915f2322896fce4
+      internalID: -753025428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_140
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718dbdbeb3cfbba49a7ac913af75437d
+      internalID: 424594655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_141
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3459244a947294640a8ff2f2fb74b529
+      internalID: -1736955583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_142
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5ae25256c1474295c73312edd19f6
+      internalID: -1730501051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_143
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060f5f2ddd91f7488bfba30502ed8ec
+      internalID: -146763253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_144
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b96a7e1a4cc60429c90cf77313e92b
+      internalID: 682667837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_145
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcffe7cd8902d0643bd8e793d4175b51
+      internalID: 240703355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_146
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a518faef373b94f86982101b14f028
+      internalID: -333340534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_147
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90302788b3053043bfa7fdc473d724b
+      internalID: 2100690844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_148
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ef0a5b39492444380041a8f4b7dc28
+      internalID: -249118695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_149
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853baa2ad1db9294f881c56862463da9
+      internalID: 1361107312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_150
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837476c3bf5d58438af896d4a6940b1
+      internalID: -816715649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_151
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc211584be5d5d44a6a762d6d9b8e20
+      internalID: 9432516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_152
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7208c048ce2996b4ca043f821872c3fb
+      internalID: 6878938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_153
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 125
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b530f7d3363531742b52cd2910c7aefc
+      internalID: -551537689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e5d6a1fa5cbd848a560566a05b4d04
+      internalID: 1087345084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_155
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a9b866d7263074e9ea52be89a0c835
+      internalID: 488739242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_156
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa40311ff940e948beac7f85d5b224e
+      internalID: 1807231167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_157
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9597e197150c8284ea9c6186c5e99193
+      internalID: 1842346174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_158
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d62131518a038489663783c1507b5d
+      internalID: 1335735470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_159
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51db1cfb9c3dee41a5bac0f49fff0d6
+      internalID: 674039499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_160
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91768e48d50b7fa4d804a2e0859df7d0
+      internalID: 1958060905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_161
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9191c300112b0345ae651789be5678e
+      internalID: -1101990903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_162
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90be3e7c183fd0489641bfd329df7a0
+      internalID: -1265436868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_163
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc196f77acb1ec94e874f60b09566222
+      internalID: 1317268463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_164
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f019eaa458514c8541000242a6679
+      internalID: 1546170133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_165
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae23a550523c98d4196eedc52f34f3ff
+      internalID: 132192112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_166
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef77ecf9abea6ec42b913cf20bf4d752
+      internalID: -1471169482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_167
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d89fca9810c1b43bdb1dfa38a00925
+      internalID: 1033325743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_168
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5949779cae1421945a6f014733b35eaa
+      internalID: -1679380255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_169
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30af67857e563df46bbf7a036074260c
+      internalID: -216552072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_170
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231e90d59acd4a5498d515a9f58ef3ea
+      internalID: 25742377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_171
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 77
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d10ba042385a314e85a26029b129dfe
+      internalID: 194777932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_172
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222fc625500bca44941f1236dc9ec62
+      internalID: 2140711877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_173
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea13ddde28e0c4d99f7a66dfb0af3d
+      internalID: 1525931144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_174
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5dd69870f20dd44ac107bfa2167059
+      internalID: -1653642133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_175
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04f7e1299d9aac47b44a26dcba58890
+      internalID: 174491047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_176
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e8e3408d9e8224bba1dfbcd1151f2e
+      internalID: -139237418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_177
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a68f471eb9a98c428b27864b6383cf4
+      internalID: -1030647280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_178
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3b4daa13c64704a985a4531ab93472
+      internalID: -996797597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_179
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcc6bbc5db68aa47a299d093b206a86
+      internalID: 394255707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_180
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909473ab087ea444ebd30f5eee4952e5
+      internalID: 1130751213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_181
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152754d9cd1b4f49be17f954e5b5f5a
+      internalID: -48073993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_182
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe07650559da30479c5442e4c977526
+      internalID: 1463826082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_183
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399b2c06bded2847b495cded55c80d8
+      internalID: -228604232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_184
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82343f153d07a4479fb0bc0d11afe60
+      internalID: 208373613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_185
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54476cf2adb5c3243879b0e583e01111
+      internalID: 1950606676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_186
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd2c824cafb9e4fa67253e0b12a362
+      internalID: -1418314113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_187
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19c442d5f90cf84d8bad3053837924d
+      internalID: 1625257668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_188
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed1718d7451d2b4b8c0d2ebab73fa66
+      internalID: -526690600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_189
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3598a3ed5f31d1f4181e4388897c17a7
+      internalID: -2120449273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru
+        2P_190
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 29
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc7f5f6230d59469728fb68cc76e2d
+      internalID: 2082373519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_0: -369817504
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_1: 2147212931
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_10: 688289602
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_100: 2113104181
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_101: -2052706286
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_102: -2012963669
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_103: -963475904
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_104: 488428668
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_105: 15147280
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_106: 1098129573
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_107: 1320476424
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_108: -1596764873
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_109: -678727369
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_11: 1508365364
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_110: 1113338512
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_111: 1809295435
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_112: -434919194
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_113: 1795578064
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_114: 552075360
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_115: -1543926231
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_116: -897490214
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_117: -712041620
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_118: 2107849507
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_119: 1222231625
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_12: -647366097
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_120: -1150845151
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_121: -1236518494
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_122: 1646409472
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_123: 777913618
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_124: 876730765
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_125: -337514580
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_126: -374745132
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_127: 886046908
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_128: -824203884
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_129: 2139696129
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_13: -2116304683
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_130: -1961591713
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_131: -594695778
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_132: 1160316462
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_133: 2059185321
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_134: 1536754792
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_135: -1960302779
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_136: -503760849
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_137: 935212862
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_138: -1820056642
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_139: -753025428
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_14: 1132496458
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_140: 424594655
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_141: -1736955583
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_142: -1730501051
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_143: -146763253
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_144: 682667837
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_145: 240703355
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_146: -333340534
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_147: 2100690844
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_148: -249118695
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_149: 1361107312
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_15: -45291433
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_150: -816715649
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_151: 9432516
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_152: 6878938
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_153: -551537689
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_154: 1087345084
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_155: 488739242
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_156: 1807231167
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_157: 1842346174
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_158: 1335735470
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_159: 674039499
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_16: -113077007
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_160: 1958060905
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_161: -1101990903
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_162: -1265436868
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_163: 1317268463
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_164: 1546170133
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_165: 132192112
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_166: -1471169482
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_167: 1033325743
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_168: -1679380255
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_169: -216552072
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_17: 864444123
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_170: 25742377
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_171: 194777932
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_172: 2140711877
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_173: 1525931144
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_174: -1653642133
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_175: 174491047
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_176: -139237418
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_177: -1030647280
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_178: -996797597
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_179: 394255707
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_18: 557971794
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_180: 1130751213
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_181: -48073993
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_182: 1463826082
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_183: -228604232
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_184: 208373613
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_185: 1950606676
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_186: -1418314113
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_187: 1625257668
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_188: -526690600
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_189: -2120449273
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_19: 1195603330
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_190: 2082373519
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_2: 796719228
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_20: 1181697516
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_21: -1947772807
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_22: -463424654
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_23: -1657447858
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_24: 952537090
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_25: 2021458266
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_26: 130779741
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_27: 711169
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_28: 117102168
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_29: 1703435087
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_3: -1094273956
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_30: 2029295673
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_31: -1041701350
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_32: -681018076
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_33: 1177765728
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_34: -1394089506
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_35: 1149284710
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_36: 2117910691
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_37: 1879248738
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_38: -23094277
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_39: 2049675819
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_4: 648819050
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_40: -1742186007
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_41: 641679513
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_42: -1546406551
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_43: 323523299
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_44: 1974366548
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_45: 495456293
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_46: -2128495807
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_47: 1738970554
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_48: 1024197549
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_49: -1838099222
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_5: -1489550571
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_50: -2071704414
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_51: -1124206638
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_52: 971774403
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_53: -925731750
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_54: 80710801
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_55: 625196936
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_56: -1625077691
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_57: 1731726076
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_58: -1843347757
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_59: -90917401
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_6: 1922006854
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_60: -1430246969
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_61: -284109103
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_62: -342636887
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_63: -1006350853
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_64: 1450276100
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_65: 1322853687
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_66: 78551488
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_67: -1299708226
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_68: 99822308
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_69: -1117053262
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_7: 801626609
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_70: 1709349734
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_71: 1022670037
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_72: -171732821
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_73: -1257069678
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_74: -336869090
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_75: 1948763453
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_76: -1573071269
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_77: -555337989
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_78: 219356655
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_79: -714634000
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_8: 244784046
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_80: 162419701
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_81: -1889825564
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_82: -1139264203
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_83: 417882163
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_84: -1011942153
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_85: 615022469
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_86: -1359957771
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_87: -1619443676
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_88: 929007343
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_89: -1254560967
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_9: -1364625226
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_90: -543226344
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_91: -1247430633
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_92: 1527840301
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_93: -1435867948
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_94: 1973819918
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_95: -151644604
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_96: -1918671696
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_97: 943155940
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_98: 1616350566
+      PC Computer - Touhou Kaeizuka Phantasmagoria of Flower View - Aya Shameimaru 2P_99: -138516096
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
