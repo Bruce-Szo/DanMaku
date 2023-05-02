@@ -7,9 +7,18 @@ public class ProjectileSystem : MonoBehaviour
     public GameObject projectilePrefab; //Projectile prefab
     public GameObject player;
 
+    public bool stillShooting = false;
+    public bool shootAgain = false;
+
     // Basic attack will fire 4 projectiles in a row with small delay.
     public void PlayerBaseShot(Sprite projectileSprite, float projectileSpeed)
     {
+        if (stillShooting)
+        {
+            shootAgain = true;
+            return;
+        }
+
         projectilePrefab.transform.GetComponent<Projectile>().angle = 0;
         projectilePrefab.transform.GetComponent<Projectile>().speed = projectileSpeed;
         projectilePrefab.transform.GetComponent<Projectile>().projSprite = projectileSprite;
@@ -32,11 +41,26 @@ public class ProjectileSystem : MonoBehaviour
 
     IEnumerator SequentialShots()
     {
-        for (int i = 0; i < 4; i++)
+        stillShooting = true;
+        while (stillShooting)
         {
-            Instantiate(projectilePrefab, new Vector3(player.transform.position.x + 0.20f, player.transform.position.y + 0.34f, 0f), Quaternion.identity);
-            Instantiate(projectilePrefab, new Vector3(player.transform.position.x + (-0.20f), player.transform.position.y + 0.34f, 0f), Quaternion.identity);
-            yield return new WaitForSeconds(0.08f);
+            for (int i = 0; i < 4; i++)
+            {
+                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + 0.20f, player.transform.position.y + 0.34f, 0f), Quaternion.identity);
+                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + (-0.20f), player.transform.position.y + 0.34f, 0f), Quaternion.identity);
+                yield return new WaitForSeconds(0.08f);
+            }
+            stillShooting = false;
+            if (shootAgain)
+            {
+                shootAgain = false;
+                stillShooting = true;
+            }
+            else
+            {
+                stillShooting = false;
+                shootAgain = false;
+            }
         }
     }
 }
