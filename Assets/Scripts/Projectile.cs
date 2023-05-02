@@ -9,6 +9,8 @@ public class Projectile : MonoBehaviour
     public Vector2 velo;
     public float speed;
     public float angle;
+    public bool isPlayerProj;
+
     public Sprite projSprite;
 
     private void Awake()
@@ -23,5 +25,20 @@ public class Projectile : MonoBehaviour
         angle *= Mathf.Deg2Rad;
         velo = new Vector2(Mathf.Sin(angle) * speed, Mathf.Cos(angle) * speed);
         rb.velocity = velo;
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player") 
+        {
+            if (isPlayerProj)
+            {
+                return;
+            } else
+            {
+                Debug.Log("Ouch! Damage!");
+            }
+        }
+        Destroy(gameObject);
     }
 }

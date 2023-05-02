@@ -21,6 +21,7 @@ public class ProjectileSystem : MonoBehaviour
 
         projectilePrefab.transform.GetComponent<Projectile>().angle = 0;
         projectilePrefab.transform.GetComponent<Projectile>().speed = projectileSpeed;
+        projectilePrefab.transform.GetComponent<Projectile>().isPlayerProj = true;
         projectilePrefab.transform.GetComponent<Projectile>().projSprite = projectileSprite;
 
         StartCoroutine(SequentialShots());

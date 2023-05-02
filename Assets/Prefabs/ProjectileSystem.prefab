@@ -46,3 +46,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 2947843614189279379, guid: 17c03310bde2a534f981f6543a46a493, type: 3}
   player: {fileID: 0}
+  stillShooting: 0
+  shootAgain: 0
