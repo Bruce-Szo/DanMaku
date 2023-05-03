@@ -19,10 +19,13 @@ public class ProjectileSystem : MonoBehaviour
             return;
         }
 
-        projectilePrefab.transform.GetComponent<Projectile>().angle = 0;
-        projectilePrefab.transform.GetComponent<Projectile>().speed = projectileSpeed;
-        projectilePrefab.transform.GetComponent<Projectile>().isPlayerProj = true;
-        projectilePrefab.transform.GetComponent<Projectile>().projSprite = projectileSprite;
+        Projectile proj = projectilePrefab.transform.GetComponent<Projectile>();
+
+        proj.angle = 0;
+        proj.speed = projectileSpeed;
+        proj.isPlayerProj = true;
+        proj.projSprite = projectileSprite;
+        proj.projDamage = 10;
 
         StartCoroutine(SequentialShots());
     }
@@ -45,10 +48,10 @@ public class ProjectileSystem : MonoBehaviour
         stillShooting = true;
         while (stillShooting)
         {
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < 3; i++)
             {
-                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + 0.20f, player.transform.position.y + 0.34f, 0f), Quaternion.identity);
-                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + (-0.20f), player.transform.position.y + 0.34f, 0f), Quaternion.identity);
+                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + 0.20f, player.transform.position.y + 0.40f, 0f), Quaternion.identity);
+                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + (-0.20f), player.transform.position.y + 0.40f, 0f), Quaternion.identity);
                 yield return new WaitForSeconds(0.08f);
             }
             stillShooting = false;

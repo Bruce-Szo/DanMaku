@@ -10,6 +10,7 @@ public class Projectile : MonoBehaviour
     public float speed;
     public float angle;
     public bool isPlayerProj;
+    public int projDamage;
 
     public Sprite projSprite;
 
@@ -18,6 +19,8 @@ public class Projectile : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         GetComponent<Transform>().Rotate(new Vector3(0, 0, -angle));
         gameObject.transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = projSprite;
+
+        projDamage = 5;
     }
 
     void FixedUpdate()
@@ -27,16 +30,18 @@ public class Projectile : MonoBehaviour
         rb.velocity = velo;
     }
 
+    public void SetProjectileDamage(int newProjDamage)
+    {
+        projDamage = newProjDamage;
+    }
+
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Player") 
+        if (collision.gameObject.CompareTag("Player")) 
         {
             if (isPlayerProj)
             {
                 return;
-            } else
-            {
-                Debug.Log("Ouch! Damage!");
             }
         }
         Destroy(gameObject);
