@@ -40,6 +40,15 @@
                     "processors": "",
                     "interactions": "Hold(duration=0.2)",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "ContinuousFire",
+                    "type": "Button",
+                    "id": "83d9b9f2-8369-43db-981c-ea5495551f7a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Hold(duration=0.2)",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -271,6 +280,72 @@
                     "processors": "",
                     "groups": "Keyboard&Mouse",
                     "action": "SlowDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "982cf9b2-df2a-4975-a8ba-eb647f4c084a",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
+                    "action": "SlowDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "72e74f56-35e7-48b3-b1b2-fc1ed14bde8a",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "SlowDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c21bd7c5-cfab-4fee-9e58-b3cf291abc25",
+                    "path": "<XInputController>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "SlowDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "96467fff-8a31-4ce3-8988-ac289ec8e423",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
+                    "action": "ContinuousFire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4674e159-7b72-47c1-9d2a-dd5f77971e05",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "ContinuousFire",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "44af292a-845a-448c-a46f-86034311a524",
+                    "path": "<XInputController>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "ContinuousFire",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

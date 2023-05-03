@@ -62,6 +62,15 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": ""Hold(duration=0.2)"",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""ContinuousFire"",
+                    ""type"": ""Button"",
+                    ""id"": ""83d9b9f2-8369-43db-981c-ea5495551f7a"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": ""Hold(duration=0.2)"",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -293,6 +302,72 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": ""Keyboard&Mouse"",
                     ""action"": ""SlowDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""982cf9b2-df2a-4975-a8ba-eb647f4c084a"",
+                    ""path"": ""<Keyboard>/leftShift"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard&Mouse"",
+                    ""action"": ""SlowDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""72e74f56-35e7-48b3-b1b2-fc1ed14bde8a"",
+                    ""path"": ""<Gamepad>/buttonWest"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""SlowDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""c21bd7c5-cfab-4fee-9e58-b3cf291abc25"",
+                    ""path"": ""<XInputController>/buttonWest"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""SlowDown"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""96467fff-8a31-4ce3-8988-ac289ec8e423"",
+                    ""path"": ""<Mouse>/leftButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Keyboard&Mouse"",
+                    ""action"": ""ContinuousFire"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""4674e159-7b72-47c1-9d2a-dd5f77971e05"",
+                    ""path"": ""<Gamepad>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""ContinuousFire"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""44af292a-845a-448c-a46f-86034311a524"",
+                    ""path"": ""<XInputController>/buttonSouth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Gamepad"",
+                    ""action"": ""ContinuousFire"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -884,6 +959,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         m_Player_Look = m_Player.FindAction("Look", throwIfNotFound: true);
         m_Player_Fire = m_Player.FindAction("Fire", throwIfNotFound: true);
         m_Player_SlowDown = m_Player.FindAction("SlowDown", throwIfNotFound: true);
+        m_Player_ContinuousFire = m_Player.FindAction("ContinuousFire", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -961,6 +1037,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     private readonly InputAction m_Player_Look;
     private readonly InputAction m_Player_Fire;
     private readonly InputAction m_Player_SlowDown;
+    private readonly InputAction m_Player_ContinuousFire;
     public struct PlayerActions
     {
         private @PlayerControls m_Wrapper;
@@ -969,6 +1046,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         public InputAction @Look => m_Wrapper.m_Player_Look;
         public InputAction @Fire => m_Wrapper.m_Player_Fire;
         public InputAction @SlowDown => m_Wrapper.m_Player_SlowDown;
+        public InputAction @ContinuousFire => m_Wrapper.m_Player_ContinuousFire;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -990,6 +1068,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @SlowDown.started += instance.OnSlowDown;
             @SlowDown.performed += instance.OnSlowDown;
             @SlowDown.canceled += instance.OnSlowDown;
+            @ContinuousFire.started += instance.OnContinuousFire;
+            @ContinuousFire.performed += instance.OnContinuousFire;
+            @ContinuousFire.canceled += instance.OnContinuousFire;
         }
 
         private void UnregisterCallbacks(IPlayerActions instance)
@@ -1006,6 +1087,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @SlowDown.started -= instance.OnSlowDown;
             @SlowDown.performed -= instance.OnSlowDown;
             @SlowDown.canceled -= instance.OnSlowDown;
+            @ContinuousFire.started -= instance.OnContinuousFire;
+            @ContinuousFire.performed -= instance.OnContinuousFire;
+            @ContinuousFire.canceled -= instance.OnContinuousFire;
         }
 
         public void RemoveCallbacks(IPlayerActions instance)
@@ -1192,6 +1276,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         void OnLook(InputAction.CallbackContext context);
         void OnFire(InputAction.CallbackContext context);
         void OnSlowDown(InputAction.CallbackContext context);
+        void OnContinuousFire(InputAction.CallbackContext context);
     }
     public interface IUIActions
     {

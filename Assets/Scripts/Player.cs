@@ -14,11 +14,13 @@ public class Player : MonoBehaviour
 
     private int health = 100;
     private bool slowDownOn = false;
+    private bool currentlyFiring = false;
 
     private Vector2 moveDirection;
     private InputAction move;
     private InputAction fire;
     private InputAction slowDown;
+    private InputAction continuousFire;
     private Animator anim;
 
     private void Awake()
@@ -41,6 +43,13 @@ public class Player : MonoBehaviour
         slowDown.performed += SlowDownActive;
         slowDown.canceled += SlowDownCancel;
         slowDown.started += SlowDownStarted;
+
+        continuousFire = playerControls.Player.ContinuousFire;
+        continuousFire.Enable();
+        continuousFire.performed += ContinuousFirePerformed;
+        continuousFire.canceled += ContinuousFireCanceled;
+
+
     }
 
     private void OnDisable()
@@ -118,6 +127,29 @@ public class Player : MonoBehaviour
             child.gameObject.SetActive(false);
         }
         gameObject.transform.GetChild(1).transform.localScale = new Vector3(0, 0, 0);
+    }
+
+    private void ContinuousFirePerformed(InputAction.CallbackContext context)
+    {
+        currentlyFiring = true;
+        StartCoroutine(ContinuousFire());
+    }
+
+    private void ContinuousFireCanceled(InputAction.CallbackContext context)
+    {
+        currentlyFiring = false;
+    }
+
+    private IEnumerator ContinuousFire()
+    {
+        projSystem.PlayerBaseShot(projectileSprite, 8f);
+
+        yield return new WaitForSeconds(0.25f);
+
+        if (currentlyFiring)
+        {
+            StartCoroutine(ContinuousFire());
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collision)
