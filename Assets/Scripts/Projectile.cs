@@ -46,4 +46,9 @@ public class Projectile : MonoBehaviour
         }
         Destroy(gameObject);
     }
+
+    public void SetSortingOrder(int sortingOrder)
+    {
+        gameObject.transform.GetChild(0).GetComponent<SpriteRenderer>().sortingOrder = sortingOrder;
+    }
 }

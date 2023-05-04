@@ -27,6 +27,8 @@ public class ProjectileSystem : MonoBehaviour
         proj.projSprite = projectileSprite;
         proj.projDamage = 10;
 
+        proj.SetSortingOrder(1);
+
         StartCoroutine(SequentialShots());
     }
 

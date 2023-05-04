@@ -6,9 +6,12 @@ public class Enemy : MonoBehaviour
 {
     private int health = 100;
 
+    public Sprite projSprite;
+    public Sprite destroyedSprite;
+    private Projectile proj;
+
     void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("asdf");
         if (collision.gameObject.CompareTag("Player"))
         {
             Destroy(gameObject);
@@ -19,7 +22,17 @@ public class Enemy : MonoBehaviour
             Projectile proj = collision.gameObject.GetComponent<Projectile>();
             if (proj.isPlayerProj) health -= proj.projDamage;
 
-            if (health <= 0) Destroy(gameObject);
+            if (health <= 0)
+            {
+                Destroy(gameObject);
+            }
         }
+    }
+
+    // Enemies blow up on being destroyed.
+    // Creates an area that will blow up other enemies if their health is low enough.
+    void DestroyedAnimation()
+    {
+
     }
 }

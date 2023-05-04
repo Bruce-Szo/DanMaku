@@ -72,7 +72,7 @@ MonoBehaviour:
   speed: 8
   angle: 0
   isPlayerProj: 1
-  projDamage: 0
+  projDamage: 10
   projSprite: {fileID: -835559133, guid: 2c920bccdcdb9b34c99cbe18ce68ab58, type: 3}
 --- !u!58 &1112905270
 CircleCollider2D:
