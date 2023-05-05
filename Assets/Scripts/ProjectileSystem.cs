@@ -10,7 +10,7 @@ public class ProjectileSystem : MonoBehaviour
     public bool stillShooting = false;
     public bool shootAgain = false;
 
-    // Basic attack will fire 4 projectiles in a row with small delay.
+    // Basic attack will fire 3 projectiles in a row with small delay.
     public void PlayerBaseShot(Sprite projectileSprite, float projectileSpeed)
     {
         if (stillShooting)
@@ -52,8 +52,22 @@ public class ProjectileSystem : MonoBehaviour
         {
             for (int i = 0; i < 3; i++)
             {
-                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + 0.20f, player.transform.position.y + 0.40f, 0f), Quaternion.identity);
-                Instantiate(projectilePrefab, new Vector3(player.transform.position.x + (-0.20f), player.transform.position.y + 0.40f, 0f), Quaternion.identity);
+                GameObject playerShotLeft = ObjectPool.SharedInstance.GetPooledObject();
+                if (playerShotLeft != null)
+                {
+                    playerShotLeft.transform.position = new Vector3(player.transform.position.x + 0.20f, player.transform.position.y + 0.40f, 0f);
+                    playerShotLeft.SetActive(true);
+                }
+
+                GameObject playerShotRight = ObjectPool.SharedInstance.GetPooledObject();
+                if (playerShotRight != null)
+                {
+                    playerShotRight.transform.position = new Vector3(player.transform.position.x + (-0.20f), player.transform.position.y + 0.40f, 0f);
+                    playerShotRight.SetActive(true);
+                }
+
+                //Instantiate(projectilePrefab, new Vector3(player.transform.position.x + 0.20f, player.transform.position.y + 0.40f, 0f), Quaternion.identity);
+                //Instantiate(projectilePrefab, new Vector3(player.transform.position.x + (-0.20f), player.transform.position.y + 0.40f, 0f), Quaternion.identity);
                 yield return new WaitForSeconds(0.08f);
             }
             stillShooting = false;

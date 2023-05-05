@@ -44,7 +44,7 @@ public class Projectile : MonoBehaviour
                 return;
             }
         }
-        Destroy(gameObject);
+        gameObject.SetActive(false);
     }
 
     public void SetSortingOrder(int sortingOrder)
